@@ -1,6 +1,7 @@
 # VB.NET-Link-Opener
 A simple VB.NET application that opens websites in your default browser. Automatically adds https:// if missing.
 
+https://github.com/sizolwethu-ngcane/VB.NET-Link-Opener/blob/main/Screenshot%20(43).png?raw=true
 
 A simple Windows application built with **VB.NET 2013** that opens websites in your default browser.
 
@@ -34,3 +35,4 @@ Sizolwethu Ngcane**
 GitHub: [@sizolwethu-ngcane](https://github.com/sizolwethu-ngcane)
 
 This project is licensed under the MIT License.
+
